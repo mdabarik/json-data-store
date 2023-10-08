@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "profession": "Software Engineer",
+        "biography": "John Smith is a skilled software engineer with over 10 years of experience in developing innovative software solutions. He specializes in web development and has a passion for creating user-friendly and efficient applications. John is dedicated to staying updated with the latest technologies and enjoys solving complex problems through coding."
+    },
+    {
+        "id": 2,
+        "name": "Emily Johnson",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "profession": "Marketing Manager",
+        "biography": "Emily Johnson is a results-driven marketing manager with a creative flair. She has a strong background in digital marketing, branding, and market research. Emily is passionate about crafting compelling marketing campaigns that resonate with the target audience. She believes in the power of storytelling and data-driven strategies to achieve marketing goals."
+    },
+    {
+        "id": 3,
+        "name": "Michael Davis",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "profession": "Graphic Designer",
+        "biography": "Michael Davis is a talented graphic designer known for his creativity and attention to detail. With a keen eye for aesthetics, he transforms ideas into visually appealing designs. Michael has experience working with diverse clients and projects, ranging from branding to digital media. He is passionate about exploring new design trends and pushing creative boundaries."
+    },
+    {
+        "id": 4,
+        "name": "Sarah Martinez",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "profession": "Data Scientist",
+        "biography": "Sarah Martinez is a data scientist who is passionate about extracting meaningful insights from complex datasets. She has a background in statistics, machine learning, and data analysis. Sarah enjoys working on projects that involve predictive modeling, data visualization, and pattern recognition. She is dedicated to leveraging data-driven approaches to solve real-world problems."
+    },
+    {
+        "id": 5,
+        "name": "David Thompson",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "profession": "Financial Analyst",
+        "biography": "David Thompson is a skilled financial analyst with expertise in financial modeling and risk assessment. He has a strong background in analyzing market trends, evaluating investment opportunities, and preparing financial reports. David is dedicated to helping businesses make informed financial decisions through thorough analysis and strategic planning."
+    },
+    {
+        "id": 6,
+        "name": "Emma White",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "profession": "Content Writer",
+        "biography": "Emma White is a passionate content writer with a love for storytelling and creative expression. She specializes in crafting engaging and informative content for various platforms, including blogs, websites, and social media. Emma is skilled in research and adapts her writing style to cater to different audiences. She believes in the power of words to inspire, educate, and connect people."
+    },
+    {
+        "id": 7,
+        "name": "Daniel Lee",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "profession": "Architect",
+        "biography": "Daniel Lee is an innovative architect known for his visionary designs and sustainable architecture solutions. With a deep understanding of spatial design and construction techniques, he creates functional and aesthetically pleasing buildings. Daniel is passionate about integrating eco-friendly practices into his designs, aiming to create spaces that harmonize with nature and the surrounding environment."
+    },
+    {
+        "id": 8,
+        "name": "Olivia Adams",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "profession": "Human Resources Manager",
+        "biography": "Olivia Adams is a dedicated human resources manager with expertise in talent acquisition, employee engagement, and organizational development. She believes in creating a positive work culture where employees thrive and contribute their best. Olivia is committed to fostering a diverse and inclusive workplace and implementing HR strategies that support the overall growth and well-being of the organization."
+    }
+]
